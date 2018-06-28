@@ -71,6 +71,8 @@ Files you may copy include:
     copyright.txt,    PRED_PREY_SIM copyright details.
     jacobi.m,    MATLAB code for iteratively solving the (square) system of linear equations Ax = b.
     gauss_seidel.m    A variation (usually an improvement) of JACOBI.
+    
+PRED_PREY_SIM is distributed under the GNU GPL; see the License and Copyright notice for more information. 
 
 ## Reference
 
