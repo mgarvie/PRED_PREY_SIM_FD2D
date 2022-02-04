@@ -65,4 +65,4 @@ Files you may copy include:
 
 Garvie M.R. , "Finite difference schemes for reaction-diffusion equations modeling predator-prey interactions in MATLAB," Bulletin of Mathematical Biology (2007) 69:931-956. 
 
-PRED_PREY_SIM_FD2D is distributed under the GNU GPL; see the mycopyright.txt file for more information.![image](https://user-images.githubusercontent.com/40602160/152566518-57436f29-bd40-4d59-97c0-26dbfa1d41ab.png)
+PRED_PREY_SIM_FD2D is distributed under the GNU GPL; see the mycopyright.txt file for more information.
