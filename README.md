@@ -2,8 +2,6 @@
 
 PRED_PREY_SIM_FD2D is a collection of MATLAB codes for Simulating Predator-Prey Interactions in 2D.
 
-[![DOI](https://zenodo.org/badge/139026520.svg)](https://zenodo.org/badge/latestdoi/139026520)
-
 ## General description:
 
 PRED_PREY_SIM_FD2D is a collection of simple MATLAB routines using finite element / difference methods for simulating the dynamics of predator-prey interactions modelled in two space dimensions and time by nonlinear reaction-diffusion systems. 
